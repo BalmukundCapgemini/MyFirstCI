@@ -19,7 +19,7 @@
 * where the sObject and query must be changed
 */
 public with sharing class AccountStructure{
-
+    //Added comments for CI
     //Declare variables
     public String currentId;
     public List<ObjectStructureMap> asm ;
